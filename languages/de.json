@@ -33,7 +33,7 @@
         "ui": {
             "selectOneToken": "Eine Figur wählen.",
             "setDefault": "Default gesetzt für",
-            "clearDefault": "Default aufgehoben für"
+            "clearDefault": "Default gelöscht für"
         },
         "chat": {
             "total": "Gesamt"
@@ -45,7 +45,7 @@
             "dialog": {
                 "title": "Mehrfachangriff-Werkzeug",
                 "setDefault": "Default setzen",
-                "clearDefault": "Default aufheben"
+                "clearDefault": "Default löschen"
             }
         }
     }
